@@ -1,2 +1,2 @@
 # noted-api
-Simple API setup with CRUD operations for a webapp called "Noted" (not real).
+Simple Node.js API with CRUD operations for a webapp called "Noted" (not real), utilizing Express.js for Node, and using mLab for data storage.
